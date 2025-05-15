@@ -48,4 +48,4 @@ Python • TensorFlow • CNN + LSTM • Flask • Jinja2
 
 ---
 
-> *"Fluent in code, slightly rusty in small talk—send help (or caffeine). Open to work, freelance, or epic collabs. Let's build something legendary."* ⚡
+"Coding with passion, networking with effort—available for collabs, contracts, and coffee-powered creativity." ☕🚀
