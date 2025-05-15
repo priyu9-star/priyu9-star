@@ -1,7 +1,7 @@
 # Priyanshi Jayant  
 Turning caffeine into code and ideas into impact—one deploy at a time.
 
-[🌐 Portfolio](https://github.com/priyu9-star) • [📧 Email](mailto:priyanshijayant729@gmail.com) • [💻 GitHub](https://github.com/priyu9-star) • [🔗 LinkedIn](https://www.linkedin.com/in/priyanshi-jayant-853952255/) • [📄 Resume](#) (https://drive.google.com/file/d/1c6eJQ8Ev9e0aqVg1gTKCnoQM6WDsbGJG/view?usp=sharing)
+[🌐 Portfolio](https://github.com/priyu9-star) • [📧 Email](mailto:priyanshijayant729@gmail.com) • [💻 GitHub](https://github.com/priyu9-star) • [🔗 LinkedIn](https://www.linkedin.com/in/priyanshi-jayant-853952255/) • [📄 Resume](https://drive.google.com/file/d/1c6eJQ8Ev9e0aqVg1gTKCnoQM6WDsbGJG/view?usp=sharing) 
 
 ---
 
