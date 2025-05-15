@@ -44,7 +44,6 @@ Python • TensorFlow • CNN + LSTM • Flask • Jinja2
 
 ## 📊 GitHub Stats
 
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyu9-star&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyu9-star&layout=compact&theme=radical)
 
 ---
