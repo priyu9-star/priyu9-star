@@ -6,7 +6,7 @@ Turning caffeine into code and ideas into impact—one deploy at a time.
 ---
 
 👩‍💻 **Innovative Software Developer** specializing in web development.  
-Still learning, still evolving—basically an open-source human in beta. 🧠✨
+🧠 Blending AI & Web Dev | Learning fast, failing forward, versioning life in commits.
 
 ---
 
