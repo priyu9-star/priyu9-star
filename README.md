@@ -16,7 +16,7 @@ Still learning, still evolving—basically an open-source human in beta. 🧠✨
 React • JavaScript  • Python • Flask
 
 **Databases & Tools:**  
-MySql • VSCode • Google Collab 
+MySql • VSCode • Google Colab 
 
 **Styling & UI:**  
 Tailwind CSS • Bootstrap • HTML5 • CSS3
