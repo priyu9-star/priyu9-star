@@ -30,7 +30,7 @@ Git • GitHub • Vite
 
 **💬 Financial Analysis Chatbot**  
 AI chatbot built with Flask & NLP for real-time stock insights  
-Python • Flask • Alpha Vantage API • React
+Python • Flask • NLP
 
 **📋 Employee Management System**  
 Task tracking dashboard built using React & Tailwind  
