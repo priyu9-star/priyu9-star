@@ -28,9 +28,11 @@ Git • GitHub • Vite
 
 ## 🚀 Projects
 
-**💬 Financial Analysis Chatbot**  
-AI chatbot built with Flask & NLP for real-time stock insights  
-Python • Flask • NLP
+🌐 Personal Portfolio Website
+A responsive and dynamic portfolio showcasing projects, skills, and achievements. Hosted live with a custom domain.
+Tech Stack: HTML • CSS • JavaScript • Netlify/GitHub Pages
+
+🔗 Live Demo: https://priyanshijayant.netlify.app/
 
 **📋 Employee Management System**  
 Task tracking dashboard built using React & Tailwind  
@@ -38,7 +40,11 @@ React • Tailwind CSS • Vite • JavaScript
 
 **📸 AI Medical Image Captioning System**  
 Deep Learning model for auto-describing X-ray/MRI images  
-Python • TensorFlow • CNN + LSTM • Flask • Jinja2
+Python • TensorFlow • CNN + LSTM • Flask • HTML • CSS 
+
+**💬 Financial Analysis Chatbot**  
+AI chatbot built with Flask & NLP for real-time stock insights  
+Python • Flask • NLP
 
 ---
 
