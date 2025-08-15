@@ -12,8 +12,11 @@ Turning caffeine into code and ideas into impact—one deploy at a time.
 
 ## ⚡ Tech Stack
 
-**Languages & Frameworks:**  
-React • JavaScript  • Python • Flask
+**Languages**  
+JavaScript  • Python • Java •C •SQL
+
+**Languages**
+MongoDB • ExpressJS • ReactJS •NodeJS 
 
 **Databases & Tools:**  
 MySql • VSCode • Google Colab 
