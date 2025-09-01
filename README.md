@@ -12,10 +12,10 @@ Turning caffeine into code and ideas into impact—one deploy at a time.
 
 ## ⚡ Tech Stack
 
-**Languages**  
+**Languages:**  
 JavaScript  • Python • Java •C •SQL
 
-**Web Technologies**
+**Web Technologies:**
 ExpressJS • ReactJS •NodeJS 
 
 **Databases & Tools:**  
@@ -30,6 +30,10 @@ Git • GitHub • Vite
 ---
 
 ## 🚀 Projects
+
+**📋 PawFinds - A Pet Adoption Website**  
+Adopt a pets, give pets for adoption and manage the process of adoption of pets  
+React • Tailwind CSS • Vite • MongoDB • Node.js • Express.js
 
 🌐 Personal Portfolio Website
 A responsive and dynamic portfolio showcasing projects, skills, and achievements. Hosted live with a custom domain.
