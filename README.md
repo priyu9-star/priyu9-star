@@ -15,11 +15,11 @@ Turning caffeine into code and ideas into impact—one deploy at a time.
 **Languages**  
 JavaScript  • Python • Java •C •SQL
 
-**Languages**
-MongoDB • ExpressJS • ReactJS •NodeJS 
+**Web Technologies**
+ExpressJS • ReactJS •NodeJS 
 
 **Databases & Tools:**  
-MySql • VSCode • Google Colab 
+MySql • MongoDB • VSCode • Google Colab 
 
 **Styling & UI:**  
 Tailwind CSS • Bootstrap • HTML5 • CSS3
