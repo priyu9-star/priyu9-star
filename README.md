@@ -13,19 +13,19 @@ Turning caffeine into code and ideas into impact—one deploy at a time.
 ## ⚡ Tech Stack
 
 **Languages:**  
-JavaScript  • Python • Java •C •SQL
+Python • Java • SQL
 
 **Web Technologies:**
-ExpressJS • ReactJS •NodeJS 
+ExpressJS • ReactJS • NodeJS 
 
 **Databases & Tools:**  
-MySql • MongoDB • VSCode • Google Colab 
+MySql • MongoDB • VSCode • Google Colab  • Power BI
 
 **Styling & UI:**  
 Tailwind CSS • Bootstrap • HTML5 • CSS3
 
 **Other Tech:**  
-Git • GitHub • Vite 
+Git • GitHub • Vite • Vercel
 
 ---
 
