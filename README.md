@@ -49,10 +49,4 @@ Python • Flask • NLP
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyu9-star&layout=compact&theme=radical)
-
----
-
 "Coding with passion, networking with effort—available for collabs, contracts, and coffee-powered creativity." ☕🚀
